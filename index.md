@@ -9,3 +9,7 @@ i created differently sized headers
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Howdy
+- [ ] what else do i put here
+- [ ] idek man
